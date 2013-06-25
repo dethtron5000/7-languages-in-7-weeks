@@ -2,8 +2,12 @@
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 43):
  * <peter@overtype.com> wrote these documents. As long as you retain this 
- * notice you can do whatever you want with anything in this repository. If we 
- * meet some day, and you think this is useful, you can buy me a beer in return 
+ * notice you can do whatever you want with anything in this repository.  
+ * Nothing expressed or implied here indicates any warrenty or guarentee of
+ * functionality, nor am I liable for your use of anything found in this 
+ * repo.
+ * If we meet some day, and you think this is useful, you can buy me a beer 
+ * in return. 
  * Peter Olson (after Poul-Henning Kamp)
  * ----------------------------------------------------------------------------
  */

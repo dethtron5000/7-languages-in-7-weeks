@@ -8,4 +8,4 @@ fib calc := method(
 	)
 )
 
-fib calc(8) print
+fib calc(30) println
