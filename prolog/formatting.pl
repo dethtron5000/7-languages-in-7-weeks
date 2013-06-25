@@ -1,0 +1,1 @@
+ printout(One,X,Y) :- format("atom1 is ~w, atom2 is ~w atom3 is ~w\n", [One, X, Y]).
